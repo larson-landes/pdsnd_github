@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 
+# This creates a dictionary that is used to convert city names to data file names.
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -230,7 +231,7 @@ def trip_duration_stats(df):
 
 
 def user_stats(df, city):
-    """Displays statistics on bikeshare users."""
+    """Displays statistics on bikeshare users. Note that washington data doesn't contain gender or birth year columns."""
 
     print('\nCalculating User Stats...\n')
     start_time = time.time()
