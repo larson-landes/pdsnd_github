@@ -5,7 +5,7 @@ This project was started on 7 February 2021.
 Git Bikeshare project.
 
 ### Description
-Describe what your project is about and what it does
+This project updates the bikeshare.py code as an exercise to learn git.
 
 ### Files used
 Include the files used
