@@ -12,4 +12,5 @@ This project updates the bikeshare.py code as an exercise to learn git.
 * data files not included on repo
 
 ### Credits
-Stack Overflow
+* Stack Overflow
+* https://wordpress.com/support/markdown-quick-reference/
