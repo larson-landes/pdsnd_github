@@ -8,7 +8,8 @@ Git Bikeshare project.
 This project updates the bikeshare.py code as an exercise to learn git.
 
 ### Files used
-Include the files used
+* bikeshare.py
+* data files not included on repo
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Stack Overflow
